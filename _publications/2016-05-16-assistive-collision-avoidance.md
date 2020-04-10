@@ -2,7 +2,6 @@
 title: "Assistive Collision Avoidance for Quadrotor Swarm Teleoperation"
 collection: publications
 permalink: /publication/2016-05-16-assistive-collision-avoidance
-excerpt: ''
 date: 2016-05-16
 venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
 citation: '

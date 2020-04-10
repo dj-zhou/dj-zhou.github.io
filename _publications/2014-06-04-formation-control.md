@@ -2,7 +2,6 @@
 title: "Distributed Formation Control Without a Global Reference Frame"
 collection: publications
 permalink: /publication/2014-06-04-formation-control
-# excerpt: ''
 date: 2014-06-04
 venue: 'American Control Conference'
 citation: '
@@ -12,7 +11,8 @@ citation: '
   booktitle = {Proc. of the American Control Conference (ACC 14)},
   month = {June},
   year = {2014},
-  pages = {3862--3867}}
+  pages = {3862--3867}
+}
 '
 
 ---

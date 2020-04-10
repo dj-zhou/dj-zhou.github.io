@@ -2,10 +2,8 @@
 title: "Vector Field Following for Quadrotors using Differential Flatness"
 collection: publications
 permalink: /publication/2014-05-31-vector-field
-excerpt: ''
 date: 2014-05-31
 venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
-# paperurl: 'https://web.stanford.edu/~schwager/MyPapers/ZhouSchwagerICRA14QuadVectorField.pdf'
 citation: '
 @inproceedings{ZhouSchwagerICRA14QuadVectorField,
   author = {D. Zhou and M. Schwager}, 
@@ -13,7 +11,8 @@ citation: '
   booktitle = {Proc. of the International Conference on Robotics and Automation (ICRA 14)},
   month = {June},
   year = {2014},
-  pages = {6567-6572}}
+  pages = {6567-6572}
+}
 '
 
 ---

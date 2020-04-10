@@ -2,7 +2,6 @@
 title: "Virtual Rigid Bodies for Coordinated Agile Maneuvering of Teams of Micro Aerial Vehicles"
 collection: publications
 permalink: /publication/2015-05-25-virtual-rigid-body
-# excerpt: ''
 date: 2015-05-25
 venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
 citation: '
